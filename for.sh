@@ -15,4 +15,6 @@ do
 
 done
 
-echo "name : ${a[*]}"
+
+
+
